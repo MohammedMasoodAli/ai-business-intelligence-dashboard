@@ -16,7 +16,8 @@ import {
 
 import IntroScreen from "./IntroScreen";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://ai-bi-backend.onrender.com";
+
 const PIE_COLORS = ["#3b82f6", "#ef4444"];
 
 function App() {
