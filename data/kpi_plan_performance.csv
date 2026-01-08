@@ -1,0 +1,4 @@
+plan_tier,subscriptions,total_mrr,churned,churn_rate_percent
+Basic,1602,760437,152,9.488139825218477
+Enterprise,1723,8473221,172,9.982588508415555
+Pro,1675,2105089,162,9.671641791044776
